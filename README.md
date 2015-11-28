@@ -8,7 +8,7 @@ We provide full IoT solutions
 - Zettor Server
 - Zettor Hub
 - Zettor Client
-- Zetor Configuration
+- Zettor Configuration
  
 Team:
 Marek Novak, Pavel Valach, Tomas Pikous, David Ocetnik, Jan Jedlicka, Michal Novotny 
