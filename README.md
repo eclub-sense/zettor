@@ -3,7 +3,7 @@
 ![alt tag](https://dl.dropboxusercontent.com/u/10799605/zettor_small.png)
 
 
-is an IoT project providing an end to end solution:
+is an end to end IoT project:
 - Zettor Sensors
 - Zettor Server
 - Zettor Hub
