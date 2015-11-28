@@ -3,7 +3,7 @@
 ![alt tag](https://dl.dropboxusercontent.com/u/10799605/zettor_small.png)
 
 
-We provide full IoT solutions
+is an IoT project providing an end to end solution:
 - Zettor Sensors
 - Zettor Server
 - Zettor Hub
@@ -12,4 +12,4 @@ We provide full IoT solutions
  
 Team:
 Marek Novak, Pavel Valach, Tomas Pikous, David Ocetnik, Jan Jedlicka, Michal Novotny 
-Node.js cloud-based server solution for IoT.
+
